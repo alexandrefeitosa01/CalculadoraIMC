@@ -1,0 +1,5 @@
+<resources>
+    <string name="message1">calcular</string>
+    <string name="message">IMC </string>
+    <string name="message_classificacao">classificação:, %1$s!.</string>
+</resources>
