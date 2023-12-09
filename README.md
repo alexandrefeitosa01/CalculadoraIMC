@@ -4,10 +4,8 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 
 
 ## :camera_flash: Screenshots
-<![Screenshot_20231208_184231](https://github.com/alexandrefeitosa01/CalculadoraIMC/assets/153322894/dc957168-d2aa-49d5-a259-d9e6ddd22641), <![Screenshot_20231208_184349](https://github.com/alexandrefeitosa01/CalculadoraIMC/assets/153322894/4b49a28a-45e4-4940-b48f-64cede2e4eba)
-![Screenshot_20231208_184410](https://github.com/alexandrefeitosa01/CalculadoraIMC/assets/153322894/7674059a-d8a4-409f-bb0f-d8c8741aa8be)
-
-
+<!-- You can add more screenshots here if you like -->
+<img src="/result/result1.png" width="260">&emsp;<img src="/result/result2.png" width="260">&emsp;<img src="/result/result3.png" width="260">
 
 ## Tecnologias
 * Kotlin
@@ -29,7 +27,7 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 - Melhorar estilização do app
 
 ## Author
-jose alexandre bezerra feitosa (follow me on [whatsaap](87981040017))
+jose alexandre bezerra feitosa (follow me on [Twitter](https://twitter.com/jalexandre04))
 
 ## License
 ```
